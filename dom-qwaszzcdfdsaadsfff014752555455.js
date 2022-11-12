@@ -5,9 +5,3 @@ var js = '<p>Test thử</p>';
 // hàm gọi phần head --->
 var head = meta+js;
 document.getElementById("head-col").innerHTML=head;
-// hàm gọi các body --->
-var body = '';
-document.getElementById("body-col").innerHTML=body;
-// hàm gọi các footer ----->
-var footer = '';
-document.getElementById("footer-col").innerHTML=footer;

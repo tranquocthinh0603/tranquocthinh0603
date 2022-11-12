@@ -1,3 +1,3 @@
 var meta = '<p>Test thử</p>';
-var js = '<p>Test thử</p>';
-document.getElementById("col").innerHTML=meat;
+var js = '<p><a>Test thử</a></p>';
+document.getElementById("col").innerHTML=js;

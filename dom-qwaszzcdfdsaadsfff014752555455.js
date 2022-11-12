@@ -4,4 +4,4 @@ var meta = '<p>Test thử</p>';
 var js = '<p>Test thử</p>';
 // hàm gọi phần head --->
 var head = meta+js;
-document.getElementById("head-col").innerHTML=head;
+document.getElementById("col").innerHTML=head;

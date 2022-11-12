@@ -1,3 +1,4 @@
-var meta = '<p>Test thử</p>';
-var js = '<p><a>Test thử</a></p>';
-document.getElementById("col").innerHTML=js;
+
+var meta = '<meta name="viewport" charset="UTF-8" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>';
+
+document.getElementById("col").innerHTML=meta;
